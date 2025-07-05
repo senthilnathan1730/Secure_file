@@ -81,7 +81,7 @@ python app.py
 ```
 ---
 ## 🙋‍♂️ Author
-Senthil Nathan
+Senthil Nathan <br>
 Cybersecurity Analyst | Linux Enthusiast | Ethical Hacker
 
 <a href="https://senthil.zeal.ninja" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-senthil.zeal.ninja-blue?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"> </a><br> <a href="mailto:senthilnathans1730@gmail.com"> <img src="https://img.shields.io/badge/Email-senthilnathans1730@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a><br> <a href="https://twitter.com/senthil1730" target="_blank"> <img src="https://img.shields.io/badge/Twitter-@senthil1730-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a><br> <a href="https://www.linkedin.com/in/senthilnathan17092003" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Senthil Nathan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a><br> <a href="https://instagram.com/gone_beta_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@gone_beta_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a><br>
