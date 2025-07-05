@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/senthilnathan1730/secure_file?style=for-the-badge" alt="Top Language">
   <img src="https://img.shields.io/github/last-commit/senthilnathan1730/secure_file?style=for-the-badge" alt="Last Commit">
-  <a href="https://securefile.zeal.ninja" target="_blank">
+  <a href="https://file.zeal.ninja" target="_blank">
     <img src="https://img.shields.io/badge/View%20Live-Project-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
 </p>
@@ -23,7 +23,7 @@
 ## 📋 Features
 
 - 🔒 Encrypt & Decrypt Documents, Images, Videos, Audio, and Folders
-- 📁 Supports `.pdf`, `.docx`, `.jpg`, `.mp4`, `.mp3`, `.zip`, etc.
+- 📁 Supports `.pdf`, `.docx`, `.txt`, `.jpg`,  `.png`, `.mp4`, `.mp3`, etc.
 - 💡 AES-256-bit encryption standard
 - 🌐 Clean & Responsive Web Interface
 - 🖥️ CLI for terminal lovers (Linux/Windows)
@@ -55,6 +55,24 @@
 
 ### 🔧 Web (Flask)
 
+```bash
+git clone https://github.com/senthilnathan1730/securefile.git
+cd securefile/web
+pip install -r requirements.txt
+python app.py
+```
+
+### 🔧 CLI (Python)
+
+```bash
+git clone https://github.com/senthilnathan1730/securefile.git
+cd securefile/web
+pip install -r requirements.txt
+python app.py
+```
+
+
+### 🔧 GUI (Tkinter)
 ```bash
 git clone https://github.com/senthilnathan1730/securefile.git
 cd securefile/web
