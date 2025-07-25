@@ -14,7 +14,7 @@
 <section style="background-color: #0f172a; color: #f1f5f9; padding: 2rem; border-radius: 1rem; max-width: 800px; margin: auto;">
   <h2 style="color: #22c55e; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">🛠️ Project Overview</h2>
   <p style="line-height: 1.8;">
-    <strong>SecureFile</strong> is a secure file encryption and decryption system built with <strong>Web (Flask)</strong>, <strong>Command Line (Python CLI)</strong>, and <strong>GUI (Tkinter)</strong> support. It enables users to protect sensitive data such as documents, images, videos, and folders using AES encryption. With its user-friendly interface and strong security practices, SecureFile is ideal for personal or professional file protection.
+    <strong>SecureFile</strong> is a secure file encryption and decryption system built with <strong>Web (Flask)</strong>, <strong>Command Line (Python CLI)</strong>, and <strong>GUI (Tkinter)</strong> support. It enables users to protect sensitive data such as documents, images and videos using AES encryption. With its user-friendly interface and strong security practices, SecureFile is ideal for personal or professional file protection.
   </p>
 </section>
 
